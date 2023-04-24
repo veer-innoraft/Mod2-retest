@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+          "App\\": "Mod-2",
+          "App\\Model\\":"Model",
+          "App\\Model\\Classes\\":"Classes",
+          "App\\controller\\":"controller"
+        }
+      },
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}

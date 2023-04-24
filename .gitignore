@@ -1,0 +1,11 @@
+# Hides credentials from git track
+*.env
+
+# Hides icons from git track
+icons/
+
+# Hides unnessecery from git track
+public/
+
+# Hides unnessecery from git track
+vendor/
